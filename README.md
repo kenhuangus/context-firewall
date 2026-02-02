@@ -4,7 +4,7 @@
 ![Security](https://img.shields.io/badge/Security-Context%20Engineering-emerald)
 ![Tech](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Tailwind-blue)
 
-A production-grade reference implementation demonstrating **Context Engineering as a Security Firewall**. 
+A reference implementation demonstrating **Context Engineering as a Security Firewall**. 
 
 This application serves as a proof-of-concept for securing Large Language Model (LLM) agents by enforcing strict governance over the context window *before* data reaches the model. It mitigates critical risks like Indirect Prompt Injection (IPI), Tool Coercion, and Context Contamination through deterministic compilation and trust tiering.
 
