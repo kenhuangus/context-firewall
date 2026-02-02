@@ -1,0 +1,5 @@
+{
+  "name": "Context Firewall Reference Implementation",
+  "description": "A production-grade reference implementation for Context Engineering as a Security Firewall. Demonstrates deterministic context compilation, trust tiers, and sanitization gates.",
+  "requestFramePermissions": []
+}
